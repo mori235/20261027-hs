@@ -1,0 +1,44 @@
+@charset "utf-8";
+/*-------------------------
+/*	ページ全体
+-------------------------*/
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "ヒラギノ角ゴ ProN", Meiryo, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+img {
+  display: block;
+}
+
+/*-------------------------
+/*	header / MV
+-------------------------*/
+header h1 {
+  margin: 0;
+  padding: 20px;
+}
+
+header img {
+  width: 170px;
+  margin: 0 auto;
+}
+
+.mv-area img {
+  width: 100%;
+}
+
+/*-------------------------
+/*	
+-------------------------*/
+
+
+/*-------------------------
+/*	
+-------------------------*/
